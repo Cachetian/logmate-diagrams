@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T15:35:27.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.5" etag="BiYRu7Hw_UtDExZC0xlc" type="github">
-  <diagram name="Page-1" id="UBW0MJO2XVWOZIxUfbLy">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-04-10T15:43:29.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LL-48Vy0I-Zd0iRK-zm3" version="21.1.5" type="github">
+  <diagram name="Page-1 Main Components" id="UBW0MJO2XVWOZIxUfbLy">
+    <mxGraphModel dx="1434" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kAIkbTYdVZavzain0S4t-1" value="Parser Library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAIkbTYdVZavzain0S4t-2" value="Parsing Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAIkbTYdVZavzain0S4t-3" value="Log Viewer App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAIkbTYdVZavzain0S4t-4" value="Admin Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
